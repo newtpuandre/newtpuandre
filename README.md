@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- .NET Azure developer
+- .NET developer
 - Go and cloud enthusiast
 
 <!--
