@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- .NET developer
-- Go and cloud enthusiast
+- .NET backend developer
+- Cloud enthusiast
+- 
 
 <!--
 **newtpuandre/newtpuandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
